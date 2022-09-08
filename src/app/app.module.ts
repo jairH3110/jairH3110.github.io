@@ -11,6 +11,7 @@ import { SkillsComponent } from './skills/skills.component';
 import { LogrosComponent } from './logros/logros.component';
 
 import { EducationComponent } from './education/education.component';
+import { InteresesComponent } from './intereses/intereses.component';
 
 
 @NgModule({
@@ -25,7 +26,8 @@ import { EducationComponent } from './education/education.component';
     SkillsComponent,
     LogrosComponent,
 
-    EducationComponent
+    EducationComponent,
+      InteresesComponent
 
 
   ],
