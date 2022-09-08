@@ -19,15 +19,14 @@ import { InteresesComponent } from './intereses/intereses.component';
     AppComponent,
     HeaderComponent,
     WorkExperienceComponent,
-
     LenguajesComponent,
-
-
     SkillsComponent,
     LogrosComponent,
 
+
     EducationComponent,
       InteresesComponent
+
 
 
   ],
