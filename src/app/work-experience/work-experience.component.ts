@@ -41,9 +41,9 @@ workExperience : Array<any> = []
               
                          
     this.workExperience.push(work1);
-  //  this.workExperience.push(work2);
-   // this.workExperience.push(work3);
-   // this.workExperience.push(work4);
+   this.workExperience.push(work2);
+    this.workExperience.push(work3);
+    this.workExperience.push(work4);
 
   }
 
