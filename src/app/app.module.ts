@@ -18,13 +18,9 @@ import { EducationComponent } from './education/education.component';
     AppComponent,
     HeaderComponent,
     WorkExperienceComponent,
-
     LenguajesComponent,
-
-
     SkillsComponent,
     LogrosComponent,
-
     EducationComponent
 
 
